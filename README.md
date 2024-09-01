@@ -17,9 +17,6 @@ Welcome to my GitHub profile! I'm a dedicated full-stack web developer with a st
 ![MongoDB](https://img.shields.io/badge/MongoDB-4.4+-green?style=flat-square&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2.0+-blue?style=flat-square&logo=tailwindcss&logoColor=white)
 
-## 📈 My GitHub Activity
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShailendraSingh19&theme=radical)
-
 Feel free to explore my repositories and connect with me!
 
 ---
