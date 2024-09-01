@@ -1,4 +1,4 @@
-# Hi there! I'm [Shailendra Singh](https://github.com/ShailendraSingh19) 👋
+# Hi there! I'm [Shailendra Ruhela](https://github.com/ShailendraSingh19) 👋
 
 Welcome to my GitHub profile! I'm a dedicated full-stack web developer with a strong command of various tech stacks and modern web tools. I specialize in building efficient, scalable applications and solving complex problems with innovative solutions.
 
